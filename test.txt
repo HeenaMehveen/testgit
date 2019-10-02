@@ -1,1 +1,4 @@
 this is my first text file
+this is my second trial of text
+this is my third trial of text
+this is my fourth trial of text
